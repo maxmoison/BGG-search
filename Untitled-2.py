@@ -43,11 +43,11 @@ if first_game is not None:
     max_players = details.find("boardgame/maxplayers").text
 
  
-    print(f"Name: {name}")
+    print(f"Title: {name}")
     print(f"Year: {year}")
     print(f"Description: {description}")
     print(f"Average rating: {average_rating}")
-    print(f"Players: {min_players} - {max_players}")
+    print(f"Player: {min_players} - {max_players}")
 else:
     print("Game not found.")
  
