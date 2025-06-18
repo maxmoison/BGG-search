@@ -1,4 +1,4 @@
-#!/Users/maxmoison/Documents/GitHub/BGG-search/.venv/bin/python
+#!/Users/maxmoison/Documents/GitHub/BGG-search/.venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
